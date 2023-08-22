@@ -87,6 +87,6 @@ inner join production.products on production.products.product_id = production.st
 inner join production.categories on production.categories.category_id = production.products.category_id 
 where production.stocks.[store_id] = 1
 
-/* Stores */
+/* Stores Controller */
 select * from sales.stores
 select * from sales.stores where sales.stores.[store_id] = 1
