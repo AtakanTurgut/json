@@ -1,0 +1,10 @@
+[
+    {
+        "brand_id" : 1,
+        "brand_name" : "Electra"
+    }, 
+    {
+        "brand_id" : 2,
+        "brand_name" : "Haro"
+    }
+]

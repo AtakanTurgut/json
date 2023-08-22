@@ -1,0 +1,31 @@
+{
+    "store_id" : 1,
+    "store_name" : "Santa Cruz Bikes",
+    "phone" : "(831) 476-4321",
+    "email" : "santacruz@bikes.shop", 
+    "street" : "3700 Portola Drive",
+    "city" : "Santa Cruz",
+    "state" : "CA",
+    "zip_code" : "95060",
+    "store_product" :
+    {
+        "brand_name" : "Trek",
+        "Total" : 387
+    },
+    "staffs" : [
+        {
+            "staff_id" : 1,
+            "first_name" : "Fabiola",
+            "last_name" : "Jackson",
+            "email" : "fabiola.jackson@bikes.shop",
+            "phone" : "(831) 555-5554"
+        },
+        {
+            "staff_id" : 2,
+            "first_name" : "Mireya",
+            "last_name" : "Copeland",
+            "email" : "mireya.copeland@bikes.shop",
+            "phone" : "(831) 555-5555"
+        }
+    ]
+}

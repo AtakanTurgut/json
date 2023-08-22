@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{08037504-8DDB-41BE-8953-A4ABEBA14C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsApp", "FormsApp\FormsApp.csproj", "{B5D0FFD5-82DB-4922-AE58-3B86EA5486F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{3D8101DD-BE2D-47B8-A7B1-0CFD93D3472D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08037504-8DDB-41BE-8953-A4ABEBA14C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08037504-8DDB-41BE-8953-A4ABEBA14C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08037504-8DDB-41BE-8953-A4ABEBA14C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08037504-8DDB-41BE-8953-A4ABEBA14C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D0FFD5-82DB-4922-AE58-3B86EA5486F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D0FFD5-82DB-4922-AE58-3B86EA5486F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D0FFD5-82DB-4922-AE58-3B86EA5486F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D0FFD5-82DB-4922-AE58-3B86EA5486F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8101DD-BE2D-47B8-A7B1-0CFD93D3472D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8101DD-BE2D-47B8-A7B1-0CFD93D3472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8101DD-BE2D-47B8-A7B1-0CFD93D3472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8101DD-BE2D-47B8-A7B1-0CFD93D3472D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE1BCED-1757-496E-8DA0-5868383BF01C}
+	EndGlobalSection
+EndGlobal

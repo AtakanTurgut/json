@@ -1,0 +1,14 @@
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\bin\Debug\FormsApp.exe
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\bin\Debug\FormsApp.pdb
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.Form1.resources
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.csproj.CopyComplete
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.exe
+C:\Users\Excalibur\Desktop\json\JSON\FormsApp\obj\Debug\FormsApp.pdb

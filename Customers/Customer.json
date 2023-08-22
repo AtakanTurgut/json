@@ -1,0 +1,11 @@
+{
+    "customer_id" : 1,
+    "first_name" : "Atakan",
+    "last_name" : "Turgut",
+    "phone" : null,
+    "email" : "atakan.trgt@hotmail.com",
+    "street" : "3167 Sokak",
+    "city" : "Denizli",
+    "state" : "TR",
+    "zip_code" : "207112"
+}
