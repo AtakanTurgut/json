@@ -1,5 +1,5 @@
 # [JSON](#) 
-This structure, called Javascript Object Notation, is actually a source-independent file format created for javascript to read data from external sources. <br />
+This structure, called `Javascript Object Notation`, is actually a source-independent file format created for javascript to read data from external sources. <br />
 It is possible to use the JSON file structure in all programming languages.
 
 ## [Where is the JSON File Structure Used?](#)
@@ -19,7 +19,7 @@ A ready-made MSSQL database named [Bike Stores Sample Database](https://www.sqls
     ?   create database DapperDB or otherName  :  use DapperDB or otherName;
         create object query;   >>   load data query;
 
-## [NuGet Gallery](---------------)
+## [NuGet Gallery](https://github.com/AtakanTurgut/json/tree/main/JSON/packages)
 - Some packages can be installed from the "[NuGet Gallery](https://www.nuget.org/packages/Microsoft.AspNet.Identity.Core)" with the help of the `Tools > NuGet Package Manager > Package Manager Console`.
 - [Dapper 2.0.151](https://www.nuget.org/packages/Dapper/2.0.151) | [github](https://github.com/DapperLib/Dapper)
 ```
@@ -30,8 +30,8 @@ A ready-made MSSQL database named [Bike Stores Sample Database](https://www.sqls
     PM>  NuGet\Install-Package Newtonsoft.Json -Version 13.0.3s
 ```
 
-The projects are in the [JSON](---------------) file.
-### [JSON.ConsoleApp](---------------)
+The projects are in the [JSON](https://github.com/AtakanTurgut/json/tree/main/JSON) file.
+### [JSON.ConsoleApp](https://github.com/AtakanTurgut/json/tree/main/JSON/ConsoleApp)
 Console App (.NET Core) 
 - [System.Data.SqlClient 4.8.5](https://www.nuget.org/packages/System.Data.SqlClient/4.8.5)
 ```
@@ -42,11 +42,11 @@ Console App (.NET Core)
 ![](/pictures/consoleapp3.PNG)
 ![](/pictures/consoleapp4.PNG)
 
-### [JSON.FormsApp](---------------)
+### [JSON.FormsApp](https://github.com/AtakanTurgut/json/tree/main/JSON/FormsApp)
 Windows Forms App (.NET Framework) 
 ![](/pictures/jsonwindforms.gif)
 
-### [JSON.WebApp](---------------)
+### [JSON.WebApp](https://github.com/AtakanTurgut/json/tree/main/JSON/WebApp)
 ASP.NET Web Application (.NET Framework) 
 The project runs on "[localhost:?/api/](http://localhost:63541/api/products)".
 ![](/pictures/webapp1.PNG)
@@ -60,7 +60,7 @@ A site where you can see your data in [JSON Viewer](https://codebeautify.org/jso
 --------------
 
 # [JSON](#) 
-Javascript Object Notation adı verilen bu yapı aslında javascript'in harici kaynaklardan veri okuması için oluşturulmuş kaynaktan bağımsız bir dosya formatıdır.   <br />
+`Javascript Object Notation` adı verilen bu yapı aslında javascript'in harici kaynaklardan veri okuması için oluşturulmuş kaynaktan bağımsız bir dosya formatıdır.   <br />
 JSON dosya desenini, kurallarına uyduğunuz tüm yazılım dillerinde kullanabilmeniz mümkündür. 
 
 ## [JSON Dosya Deseni Nerelerde Kullanılır?](#)
@@ -68,6 +68,6 @@ JSON dosya desenini, kurallarına uyduğunuz tüm yazılım dillerinde kullanabi
 - Uygulamalarınızın içerisinden dış dünya ile veri paylaşmak istediğiniz noktalarda kullanabilirsiniz.
 - Uygulama içinde almış olduğunuz sistem loglarını disk üzerinde düzenli olarak saklayabilmek için kullanabilirsiniz.
 
-Proje dosyaları [JSON](---------------) klasörü içerisindedir.  <br />
+Proje dosyaları [JSON](https://github.com/AtakanTurgut/json/tree/main/JSON) klasörü içerisindedir.  <br />
 
 [JSON Viewer](https://codebeautify.org/jsonviewer), JSON formatındaki verilerinizi düzgün bir obje veya liste olarak görebileceğiniz bir site.
