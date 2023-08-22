@@ -20,7 +20,7 @@ A ready-made MSSQL database named [Bike Stores Sample Database](https://www.sqls
         create object query;   >>   load data query;
 
 ## [NuGet Gallery](https://github.com/AtakanTurgut/json/tree/main/JSON/packages)
-- Some packages can be installed from the "[NuGet Gallery](https://www.nuget.org/packages/Microsoft.AspNet.Identity.Core)" with the help of the `Tools > NuGet Package Manager > Package Manager Console`.
+Some packages can be installed from the "[NuGet Gallery](https://www.nuget.org/packages/Microsoft.AspNet.Identity.Core)" with the help of the `Tools > NuGet Package Manager > Package Manager Console`.
 - [Dapper 2.0.151](https://www.nuget.org/packages/Dapper/2.0.151) | [github](https://github.com/DapperLib/Dapper)
 ```
     PM>  NuGet\Install-Package Dapper -Version 2.0.151
